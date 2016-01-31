@@ -1,0 +1,11 @@
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\bin\Debug\F12Laucher.exe
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\bin\Debug\F12Laucher.pdb
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\obj\x86\Debug\F12Laucher.Properties.Resources.resources
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\obj\x86\Debug\F12Laucher.exe
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\obj\x86\Debug\F12Laucher.pdb
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\obj\x86\Debug\F12Laucher.AddForm.resources
+C:\Users\Javier\Desktop\Development Projects\F12Laucher\F12Laucher\bin\Debug\WindowScrape.dll
+C:\Users\javier\Desktop\Development Projects\F12Laucher\F12Laucher\obj\x86\Debug\F12Laucher.MainForm.resources
